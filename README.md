@@ -9,7 +9,7 @@ In this project, I have worked on Spring Boot Mail to send email confirmation li
 
 3- Fill all necessary properties required in the application.proprties like your Gmail-id and Gmail-app-password.
 
-4- Run the Main file and open the Postan for checking the Rest APIs.
+4- Run the Main file and open the Postman for checking the Rest APIs.
 
 5- Send your signup credentials as POST request at http://localhost:8080/users/signup.
 
